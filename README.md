@@ -49,12 +49,7 @@ make api
 
 ---
 
-## What Hiring Managers Will Notice
-- The project is not just “train a model” — it includes **data contracts, reproducible pipelines, artifact versioning, monitoring, and a deployable service**.
-- **Offline/online parity**: the same preprocessing and vectorizer are used in both training and inference.
-- Clear artifacts under `models/` and reports under `reports/`.
 
----
 
 ## Repo Structure
 ```

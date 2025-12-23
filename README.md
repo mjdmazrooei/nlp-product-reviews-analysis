@@ -1,4 +1,4 @@
-# NLP Product Reviews Analysis (End-to-End, GitHub-Ready)
+# NLP Product Reviews Analysis 
 
 A portfolio-grade project that turns raw product reviews into **actionable insights**:
 - **Sentiment classification** (TF-IDF + Logistic Regression, calibrated probabilities)
